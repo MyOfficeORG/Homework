@@ -10,6 +10,7 @@ namespace 扩展方法
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("liweijian提交");
         }
     }
 }
