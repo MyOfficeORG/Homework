@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "扩展方法", "扩展方法\扩展方法.csproj", "{EDBE9BCA-CE6D-49E2-93F1-9A46452182F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "扩展方法Tests", "扩展方法Tests\扩展方法Tests.csproj", "{CA9E571C-D38B-4082-B4EF-55823D414F29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDBE9BCA-CE6D-49E2-93F1-9A46452182F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDBE9BCA-CE6D-49E2-93F1-9A46452182F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDBE9BCA-CE6D-49E2-93F1-9A46452182F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDBE9BCA-CE6D-49E2-93F1-9A46452182F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA9E571C-D38B-4082-B4EF-55823D414F29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA9E571C-D38B-4082-B4EF-55823D414F29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA9E571C-D38B-4082-B4EF-55823D414F29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA9E571C-D38B-4082-B4EF-55823D414F29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E87307A2-BC2C-42B5-88B4-7FE3C1C86B36}
+	EndGlobalSection
+EndGlobal
